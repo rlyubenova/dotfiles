@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rali.l.lyubenova@gmail.com
+	name = Ralitsa Lyubenova
